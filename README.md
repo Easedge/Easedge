@@ -6,4 +6,6 @@
 
 # TODO
 > idea
-> 1.lisp-shell
+
+    1.lisp-shell
+    2.waiting for new idea...
