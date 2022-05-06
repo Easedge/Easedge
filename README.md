@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me zhangrundide@gmail.com
 
-#TODO#
+# TODO
 > idea
 > 1.lisp-shell
